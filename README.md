@@ -1,3 +1,3 @@
 # testrepo
 
-Testing badgebot integration again and again. PR no6
+Testing badgebot integration again and again. PR no7
