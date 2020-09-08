@@ -2,4 +2,4 @@
 
 Testing badgebot integration again and again. PR no17
 
-edit6
+edit7
